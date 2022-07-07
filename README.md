@@ -1,0 +1,2 @@
+# estudoDeInteligenciaArtificial
+Estudos sobre inteligencia artificial
